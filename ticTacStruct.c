@@ -12,6 +12,7 @@ typedef struct{
     char board[3][3];
     //4 states, x = x vant brettet, o = o vant brettet, t = tie, null = pågående 
     char state;
+    //"e1"
 }board1;
 
 int main(){
