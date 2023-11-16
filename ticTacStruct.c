@@ -7,7 +7,7 @@ bool player1Turn = true;
 typedef char brett[3][3];
 
 //brett board1 = {{'a','b','v'},{'2'}};
-
+//test1234
 typedef struct{
     char board[3][3];
     //4 states, x = x vant brettet, o = o vant brettet, t = tie, null = pågående 
